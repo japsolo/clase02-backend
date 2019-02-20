@@ -18,3 +18,5 @@ for (var i = 1; i <= 10; i++) {
 
 console.log(users);
 console.log(moment('2016-03-12 13:00:00').add(1, 'day').format('LLL'));
+
+console.log('Un mensaje después del 1er commit');
